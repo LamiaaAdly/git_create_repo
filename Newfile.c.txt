@@ -1,4 +1,4 @@
-Line on Master
+Change from Master
 Line 1 on Test Branch 
 Line 2 on Test Branch
 Line 3 on test branch after first push
